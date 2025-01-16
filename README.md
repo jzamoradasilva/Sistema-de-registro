@@ -6,3 +6,4 @@
 
   ```npm istall react```
   
+Sistema de registro 2 
